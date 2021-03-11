@@ -1,0 +1,3 @@
+# Analyse de données avec Power Map
+
+Pour vous aider à tirer le meilleur de Power Map, Vincent Isoz vous accompagne dans la prise en main de toutes ses fonctionnalités existantes à ce jour. Cette formation s'adresse à toute personne souhaitant représenter visuellement ses données associées à des informations géographiques dans Excel 2013. Ainsi, vous allez pouvoir communiquer des géostatistiques efficacement et de manière ludique, dynamique et pertinente. Vous allez également créer des représentations graphiques simples, voire animées. Enfin, vous allez détailler les possibilités et les limites offertes par Power Map pour représenter des données provenant typiquement du modèle PowerPivot.
